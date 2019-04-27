@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
-    "build-maven-local": "ng build --prod --base-href /${artifactId}/ --deploy-url http://localhost:8080/${artifactId}/ --deleteOutputPath=false --outputPath ../${artifactId}",
+    "build-maven-local": "ng build --prod --base-href /${artifactId}/ --deploy-url http://localhost:8080/${artifactId}/ --deleteOutputPath=false --outputPath ../webapp",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
