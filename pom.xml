@@ -4,7 +4,7 @@
 
   <groupId>it.solutionsexmachina</groupId>
   <artifactId>webapplication-archetype</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>maven-archetype</packaging>
 
   <name>webapplication-archetype</name>
@@ -38,7 +38,7 @@
     <connection>scm:git:git://github.com/dpansica/webapplication-archetype.git</connection>
     <developerConnection>scm:git:git@github.com:dpansica/dpansica/webapplication-archetype.git</developerConnection>
     <url>https://github.com/dpansica/webapplication-archetype</url>
-    <tag>HEAD</tag>
+    <tag>webapplication-archetype-1.1</tag>
   </scm>
 
   <distributionManagement>
